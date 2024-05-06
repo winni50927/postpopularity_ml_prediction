@@ -21,5 +21,22 @@ By rigorously examining these questions, this research aims to contribute valuab
 the dynamics of online news article shareability, thereby aiding publishers in optimizing their
 content strategies and enhancing audience engagement.
 
-### Usage
-Running the ipynb file will provide a comprehensive overview of the program and its analysis results.
+### Result and Futurework
+In this project, I leveraged a comprehensive set of skills encompassing data preprocessing, model
+selection, evaluation, and fine-tuning to develop a reliable machine learning model aimed at
+predicting the shareability of posts. For model selection, I utilized a variety of algorithms known
+for their robust performance in classification tasks, including Random Forest, AdaBoost, SVM
+with an RBF kernel, K-Nearest Neighbors, and Naive Bayes.
+
+The analysis revealed that the Random Forest model outperformed others in terms of prediction
+accuracy. Key findings also indicated that the popularity of keywords in the articles and their
+relevance to the media platform's trending topics significantly influenced shareability.
+One of the most time-consuming aspects was comprehending the significance of each data
+column and executing data preprocessing. Specifically, the logarithmic transformation applied to
+independent variables presented challenges in addressing data skewness, requiring extensive
+testing to determine the most effective method.
+
+Looking ahead, I plan to incorporate SHAP values to further evaluate the impact of the features
+used by the machine learning models. This will enable a clearer understanding of how each
+feature contributes to the model’s predictions, highlighting both their positive and negative
+influences on the outcome.
