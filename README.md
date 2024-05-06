@@ -1,7 +1,7 @@
 ### Project Name:
 #### Predictive Analysis of Online News Article Share Volume
 
-#### Introduction
+### Introduction
 In the rapidly evolving landscape of digital journalism, the measure of an article's shareability
 has emerged as a pivotal metric for publishers. Understanding the determinants of online news
 article vitality and shareability has thus become imperative. This project is driven by the pressing
@@ -18,3 +18,6 @@ publication?
 By rigorously examining these questions, this research aims to contribute valuable insights into
 the dynamics of online news article shareability, thereby aiding publishers in optimizing their
 content strategies and enhancing audience engagement.
+
+### Usage
+Running the ipynb file will provide a comprehensive overview of the program and its analysis results.
