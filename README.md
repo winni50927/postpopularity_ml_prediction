@@ -1,6 +1,8 @@
 ### Project Name:
 #### Predictive Analysis of Online News Article Share Volume
 
+![Shareability.](https://github.com/winni50927/postpopularity_ml_prediction/blob/main/social-media-shareability.png)
+
 ### Introduction
 In the rapidly evolving landscape of digital journalism, the measure of an article's shareability
 has emerged as a pivotal metric for publishers. Understanding the determinants of online news
